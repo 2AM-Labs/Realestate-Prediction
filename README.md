@@ -11,11 +11,11 @@ This project provides detailed documentation for replicability and transparency,
 
 ```
 Realestate-Prediction/
-├── data/               # Folder to store datasets
-├── notebooks/          # Jupyter Notebooks for exploration and experimentation
-├── docs/               # Additional documentation
-├── README.md           # Project explanation (this file)
-└── requirements.txt    # Python dependencies
+├── data/               
+├── notebooks/          
+├── docs/               
+├── README.md           
+└── requirements.txt    
 ```
 
 ---
